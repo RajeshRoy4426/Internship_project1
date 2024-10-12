@@ -1,0 +1,1001 @@
+Train No,Speed,Deperture,Arrived,Duration,Status
+12332,86,Kolkata,Malda,7,On Time
+12333,51,Howra,Kolkata,11,Delayed
+12334,67,Sealdah,Malda,23,On Time
+12335,62,Nagpur,Kolkata,18,Delayed
+12336,141,Kolkata,Malda,17,Delayed
+12337,141,Bardhaman,Jaipur,21,On Time
+12338,98,Bardhaman,Malda,5,Delayed
+12339,88,Nagpur,Malda,15,On Time
+12340,123,Nagpur,Sehara,14,Delayed
+12341,86,Sealdah,Kolkata,3,Delayed
+12342,111,Nagpur,Agartala,13,On Time
+12343,98,Nagpur,Agartala,1,On Time
+12344,50,Kolkata,Jaipur,13,On Time
+12345,67,Sealdah,Agartala,12,Delayed
+12346,102,Nagpur,Kolkata,13,Delayed
+12347,67,Nagpur,Jaipur,6,On Time
+12348,123,Sealdah,Sehara,13,On Time
+12349,144,Kolkata,Sehara,13,On Time
+12350,98,Kolkata,Sehara,16,Delayed
+12351,92,Howra,Kolkata,23,Delayed
+12352,119,Kolkata,Jaipur,19,On Time
+12353,115,Bardhaman,Agartala,7,Delayed
+12354,58,Kolkata,Agartala,6,On Time
+12355,67,Bardhaman,Kolkata,15,On Time
+12356,135,Bardhaman,Sehara,23,Delayed
+12357,119,Nagpur,Agartala,20,On Time
+12358,115,Sealdah,Jaipur,5,On Time
+12359,117,Howra,Malda,16,Delayed
+12360,112,Sealdah,Malda,3,On Time
+12361,52,Sealdah,Agartala,16,On Time
+12362,79,Bardhaman,Kolkata,4,On Time
+12363,77,Sealdah,Agartala,7,On Time
+12364,128,Howra,Malda,5,On Time
+12365,62,Sealdah,Malda,14,Delayed
+12366,145,Howra,Jaipur,6,Delayed
+12367,82,Bardhaman,Sehara,23,Delayed
+12368,149,Bardhaman,Kolkata,9,On Time
+12369,100,Bardhaman,Kolkata,18,On Time
+12370,83,Howra,Kolkata,19,On Time
+12371,85,Kolkata,Malda,11,On Time
+12372,59,Howra,Jaipur,5,Delayed
+12373,67,Kolkata,Sehara,12,On Time
+12374,95,Howra,Malda,22,Delayed
+12375,56,Bardhaman,Jaipur,14,On Time
+12376,137,Nagpur,Malda,8,Delayed
+12377,104,Kolkata,Agartala,8,Delayed
+12378,86,Sealdah,Jaipur,24,Delayed
+12379,142,Howra,Jaipur,13,Delayed
+12380,85,Howra,Malda,7,On Time
+12381,145,Nagpur,Kolkata,24,On Time
+12382,108,Bardhaman,Jaipur,17,Delayed
+12383,133,Bardhaman,Agartala,9,On Time
+12384,98,Bardhaman,Malda,8,Delayed
+12385,57,Howra,Malda,1,Delayed
+12386,109,Bardhaman,Sehara,6,On Time
+12387,98,Nagpur,Sehara,4,Delayed
+12388,104,Sealdah,Agartala,7,On Time
+12389,90,Sealdah,Kolkata,18,On Time
+12390,73,Howra,Agartala,6,Delayed
+12391,63,Kolkata,Sehara,3,On Time
+12392,76,Kolkata,Malda,2,Delayed
+12393,117,Kolkata,Malda,23,Delayed
+12394,58,Kolkata,Malda,2,On Time
+12395,103,Howra,Jaipur,9,On Time
+12396,117,Kolkata,Kolkata,21,Delayed
+12397,123,Sealdah,Agartala,23,On Time
+12398,63,Bardhaman,Malda,18,Delayed
+12399,50,Howra,Kolkata,23,Delayed
+12400,61,Sealdah,Agartala,21,On Time
+12401,55,Howra,Agartala,12,On Time
+12402,131,Sealdah,Malda,4,On Time
+12403,104,Bardhaman,Sehara,23,On Time
+12404,94,Bardhaman,Kolkata,13,Delayed
+12405,81,Sealdah,Kolkata,16,On Time
+12406,81,Sealdah,Agartala,15,On Time
+12407,52,Sealdah,Agartala,18,Delayed
+12408,144,Howra,Kolkata,16,Delayed
+12409,135,Sealdah,Agartala,19,On Time
+12410,125,Nagpur,Sehara,6,On Time
+12411,135,Kolkata,Sehara,16,Delayed
+12412,62,Howra,Kolkata,2,Delayed
+12413,74,Kolkata,Malda,3,Delayed
+12414,98,Sealdah,Jaipur,17,On Time
+12415,135,Bardhaman,Jaipur,14,Delayed
+12416,134,Bardhaman,Agartala,7,On Time
+12417,96,Bardhaman,Malda,15,Delayed
+12418,131,Sealdah,Kolkata,6,Delayed
+12419,112,Howra,Sehara,22,Delayed
+12420,64,Nagpur,Jaipur,17,Delayed
+12421,59,Sealdah,Sehara,12,On Time
+12422,74,Sealdah,Malda,15,On Time
+12423,57,Nagpur,Malda,14,On Time
+12424,80,Bardhaman,Malda,10,On Time
+12425,94,Howra,Kolkata,4,Delayed
+12426,77,Bardhaman,Jaipur,13,Delayed
+12427,61,Kolkata,Kolkata,10,Delayed
+12428,130,Howra,Agartala,16,Delayed
+12429,127,Sealdah,Agartala,16,Delayed
+12430,52,Sealdah,Malda,3,Delayed
+12431,57,Howra,Malda,4,Delayed
+12432,104,Nagpur,Kolkata,3,Delayed
+12433,93,Kolkata,Malda,4,Delayed
+12434,95,Nagpur,Kolkata,7,Delayed
+12435,71,Bardhaman,Sehara,23,Delayed
+12436,80,Nagpur,Jaipur,18,On Time
+12437,87,Kolkata,Sehara,15,Delayed
+12438,69,Sealdah,Kolkata,9,On Time
+12439,108,Kolkata,Jaipur,10,Delayed
+12440,87,Howra,Malda,1,On Time
+12441,90,Kolkata,Sehara,16,On Time
+12442,126,Bardhaman,Kolkata,18,Delayed
+12443,69,Bardhaman,Agartala,10,On Time
+12444,67,Nagpur,Kolkata,20,Delayed
+12445,143,Howra,Jaipur,24,Delayed
+12446,128,Bardhaman,Sehara,11,On Time
+12447,83,Howra,Sehara,24,On Time
+12448,84,Bardhaman,Sehara,18,On Time
+12449,104,Nagpur,Malda,18,Delayed
+12450,149,Kolkata,Agartala,19,On Time
+12451,149,Bardhaman,Sehara,5,On Time
+12452,143,Nagpur,Kolkata,16,Delayed
+12453,54,Bardhaman,Malda,22,Delayed
+12454,94,Nagpur,Agartala,21,Delayed
+12455,55,Nagpur,Sehara,7,On Time
+12456,138,Bardhaman,Jaipur,23,On Time
+12457,59,Nagpur,Sehara,16,On Time
+12458,127,Nagpur,Malda,1,On Time
+12459,146,Howra,Kolkata,6,Delayed
+12460,141,Howra,Kolkata,6,Delayed
+12461,55,Sealdah,Sehara,23,On Time
+12462,63,Kolkata,Sehara,3,Delayed
+12463,147,Sealdah,Sehara,23,On Time
+12464,75,Howra,Jaipur,5,Delayed
+12465,142,Kolkata,Agartala,7,Delayed
+12466,123,Howra,Jaipur,18,On Time
+12467,57,Sealdah,Kolkata,6,Delayed
+12468,103,Kolkata,Malda,12,On Time
+12469,111,Kolkata,Sehara,6,Delayed
+12470,141,Kolkata,Malda,17,Delayed
+12471,135,Sealdah,Sehara,6,Delayed
+12472,90,Bardhaman,Jaipur,18,On Time
+12473,148,Howra,Kolkata,7,On Time
+12474,80,Nagpur,Jaipur,8,On Time
+12475,66,Nagpur,Kolkata,6,On Time
+12476,106,Bardhaman,Kolkata,6,Delayed
+12477,108,Kolkata,Sehara,1,Delayed
+12478,61,Kolkata,Agartala,2,Delayed
+12479,89,Sealdah,Sehara,15,Delayed
+12480,108,Howra,Jaipur,14,On Time
+12481,112,Kolkata,Kolkata,21,Delayed
+12482,127,Sealdah,Agartala,16,Delayed
+12483,61,Nagpur,Malda,24,Delayed
+12484,121,Bardhaman,Malda,3,Delayed
+12485,102,Howra,Sehara,17,On Time
+12486,55,Kolkata,Kolkata,23,Delayed
+12487,74,Howra,Agartala,2,On Time
+12488,100,Howra,Agartala,20,On Time
+12489,140,Nagpur,Jaipur,2,On Time
+12490,60,Howra,Malda,20,Delayed
+12491,94,Kolkata,Agartala,6,Delayed
+12492,94,Sealdah,Sehara,12,On Time
+12493,104,Kolkata,Agartala,10,Delayed
+12494,98,Bardhaman,Agartala,23,On Time
+12495,77,Nagpur,Kolkata,8,On Time
+12496,145,Howra,Agartala,11,Delayed
+12497,147,Sealdah,Jaipur,15,On Time
+12498,86,Kolkata,Agartala,1,Delayed
+12499,144,Sealdah,Kolkata,18,Delayed
+12500,102,Kolkata,Agartala,9,On Time
+12501,95,Sealdah,Sehara,10,Delayed
+12502,57,Kolkata,Malda,6,On Time
+12503,86,Kolkata,Agartala,16,Delayed
+12504,87,Nagpur,Sehara,24,Delayed
+12505,117,Bardhaman,Jaipur,17,Delayed
+12506,64,Sealdah,Sehara,21,On Time
+12507,70,Kolkata,Malda,18,On Time
+12508,69,Kolkata,Sehara,9,On Time
+12509,148,Sealdah,Jaipur,10,On Time
+12510,143,Sealdah,Malda,19,Delayed
+12511,121,Sealdah,Kolkata,4,Delayed
+12512,140,Sealdah,Kolkata,3,Delayed
+12513,126,Nagpur,Jaipur,2,On Time
+12514,87,Nagpur,Kolkata,12,Delayed
+12515,69,Howra,Agartala,2,Delayed
+12516,101,Howra,Jaipur,23,On Time
+12517,149,Nagpur,Malda,11,On Time
+12518,136,Nagpur,Agartala,5,On Time
+12519,116,Sealdah,Malda,18,Delayed
+12520,133,Kolkata,Sehara,8,Delayed
+12521,126,Bardhaman,Jaipur,3,Delayed
+12522,63,Kolkata,Agartala,7,On Time
+12523,106,Bardhaman,Agartala,22,Delayed
+12524,59,Sealdah,Malda,11,On Time
+12525,103,Howra,Sehara,3,On Time
+12526,54,Kolkata,Kolkata,5,Delayed
+12527,94,Howra,Agartala,3,On Time
+12528,112,Howra,Sehara,1,Delayed
+12529,141,Kolkata,Sehara,22,Delayed
+12530,55,Nagpur,Kolkata,10,Delayed
+12531,140,Kolkata,Kolkata,24,On Time
+12532,124,Bardhaman,Kolkata,15,On Time
+12533,149,Sealdah,Agartala,3,Delayed
+12534,104,Nagpur,Kolkata,5,Delayed
+12535,138,Kolkata,Kolkata,17,Delayed
+12536,122,Howra,Malda,2,Delayed
+12537,99,Nagpur,Agartala,20,On Time
+12538,96,Sealdah,Agartala,9,On Time
+12539,64,Howra,Sehara,18,On Time
+12540,139,Nagpur,Malda,8,On Time
+12541,66,Nagpur,Malda,15,On Time
+12542,94,Nagpur,Jaipur,24,Delayed
+12543,115,Kolkata,Sehara,18,On Time
+12544,95,Bardhaman,Jaipur,21,On Time
+12545,104,Howra,Jaipur,3,Delayed
+12546,100,Sealdah,Kolkata,24,Delayed
+12547,109,Sealdah,Sehara,12,On Time
+12548,76,Bardhaman,Agartala,7,Delayed
+12549,74,Howra,Jaipur,6,On Time
+12550,146,Nagpur,Kolkata,6,On Time
+12551,96,Sealdah,Agartala,19,Delayed
+12552,100,Nagpur,Agartala,8,Delayed
+12553,123,Sealdah,Malda,10,On Time
+12554,111,Kolkata,Agartala,23,On Time
+12555,144,Kolkata,Agartala,11,On Time
+12556,140,Howra,Jaipur,24,Delayed
+12557,61,Sealdah,Kolkata,21,Delayed
+12558,128,Sealdah,Kolkata,9,On Time
+12559,126,Bardhaman,Malda,16,On Time
+12560,72,Kolkata,Agartala,4,On Time
+12561,122,Howra,Sehara,7,Delayed
+12562,93,Nagpur,Kolkata,23,Delayed
+12563,74,Nagpur,Sehara,13,Delayed
+12564,57,Howra,Kolkata,14,On Time
+12565,51,Howra,Malda,4,On Time
+12566,108,Bardhaman,Kolkata,21,Delayed
+12567,104,Sealdah,Kolkata,5,Delayed
+12568,83,Bardhaman,Sehara,13,Delayed
+12569,63,Bardhaman,Malda,3,Delayed
+12570,88,Nagpur,Sehara,16,On Time
+12571,63,Nagpur,Jaipur,2,On Time
+12572,114,Sealdah,Sehara,15,Delayed
+12573,97,Nagpur,Agartala,23,Delayed
+12574,104,Bardhaman,Sehara,22,On Time
+12575,78,Bardhaman,Malda,22,Delayed
+12576,69,Nagpur,Kolkata,21,On Time
+12577,124,Kolkata,Jaipur,2,On Time
+12578,126,Howra,Kolkata,24,Delayed
+12579,63,Kolkata,Malda,8,Delayed
+12580,110,Bardhaman,Malda,19,On Time
+12581,102,Sealdah,Sehara,20,Delayed
+12582,77,Bardhaman,Kolkata,23,Delayed
+12583,131,Kolkata,Sehara,4,Delayed
+12584,100,Kolkata,Sehara,13,On Time
+12585,54,Nagpur,Sehara,19,Delayed
+12586,130,Nagpur,Sehara,18,Delayed
+12587,113,Howra,Agartala,3,On Time
+12588,144,Nagpur,Kolkata,16,Delayed
+12589,81,Kolkata,Agartala,4,Delayed
+12590,68,Sealdah,Malda,17,On Time
+12591,61,Kolkata,Kolkata,24,On Time
+12592,79,Nagpur,Agartala,9,On Time
+12593,59,Kolkata,Kolkata,8,On Time
+12594,117,Nagpur,Malda,22,On Time
+12595,60,Bardhaman,Kolkata,7,On Time
+12596,143,Sealdah,Agartala,19,On Time
+12597,139,Kolkata,Malda,15,On Time
+12598,59,Sealdah,Malda,18,Delayed
+12599,113,Nagpur,Sehara,5,Delayed
+12600,78,Nagpur,Agartala,14,Delayed
+12601,124,Sealdah,Sehara,7,Delayed
+12602,92,Bardhaman,Kolkata,23,Delayed
+12603,73,Kolkata,Agartala,8,On Time
+12604,148,Sealdah,Malda,15,Delayed
+12605,143,Sealdah,Sehara,12,On Time
+12606,50,Howra,Agartala,5,On Time
+12607,59,Nagpur,Malda,20,Delayed
+12608,101,Sealdah,Malda,19,On Time
+12609,58,Sealdah,Jaipur,12,Delayed
+12610,122,Kolkata,Agartala,4,On Time
+12611,100,Sealdah,Agartala,8,On Time
+12612,80,Bardhaman,Kolkata,17,On Time
+12613,51,Bardhaman,Jaipur,17,Delayed
+12614,84,Bardhaman,Malda,11,On Time
+12615,61,Sealdah,Malda,12,On Time
+12616,118,Sealdah,Agartala,18,On Time
+12617,124,Kolkata,Agartala,1,On Time
+12618,81,Nagpur,Agartala,2,On Time
+12619,103,Howra,Sehara,20,Delayed
+12620,57,Kolkata,Agartala,9,On Time
+12621,139,Nagpur,Jaipur,16,Delayed
+12622,107,Howra,Malda,8,On Time
+12623,148,Howra,Kolkata,19,On Time
+12624,122,Sealdah,Malda,9,Delayed
+12625,112,Kolkata,Sehara,13,Delayed
+12626,76,Bardhaman,Sehara,15,Delayed
+12627,101,Bardhaman,Malda,10,Delayed
+12628,129,Sealdah,Jaipur,23,Delayed
+12629,71,Bardhaman,Agartala,10,On Time
+12630,58,Nagpur,Agartala,16,Delayed
+12631,125,Sealdah,Malda,21,On Time
+12632,110,Howra,Malda,7,On Time
+12633,120,Kolkata,Agartala,14,On Time
+12634,107,Howra,Malda,13,Delayed
+12635,102,Sealdah,Agartala,9,On Time
+12636,117,Howra,Jaipur,6,On Time
+12637,137,Howra,Kolkata,15,Delayed
+12638,77,Howra,Kolkata,21,On Time
+12639,142,Howra,Kolkata,13,Delayed
+12640,67,Howra,Malda,3,On Time
+12641,86,Howra,Agartala,14,On Time
+12642,111,Kolkata,Sehara,24,On Time
+12643,65,Kolkata,Sehara,4,Delayed
+12644,110,Bardhaman,Agartala,15,On Time
+12645,101,Howra,Sehara,13,Delayed
+12646,90,Bardhaman,Agartala,3,Delayed
+12647,62,Nagpur,Malda,18,Delayed
+12648,74,Nagpur,Kolkata,3,Delayed
+12649,93,Kolkata,Jaipur,12,On Time
+12650,76,Sealdah,Jaipur,16,On Time
+12651,149,Bardhaman,Malda,2,Delayed
+12652,134,Howra,Agartala,1,On Time
+12653,111,Bardhaman,Agartala,10,Delayed
+12654,73,Kolkata,Sehara,5,Delayed
+12655,66,Bardhaman,Sehara,6,Delayed
+12656,66,Howra,Jaipur,12,On Time
+12657,118,Kolkata,Jaipur,7,Delayed
+12658,94,Kolkata,Jaipur,11,Delayed
+12659,117,Kolkata,Kolkata,12,On Time
+12660,57,Kolkata,Sehara,2,Delayed
+12661,123,Sealdah,Sehara,12,Delayed
+12662,81,Bardhaman,Jaipur,9,On Time
+12663,54,Bardhaman,Agartala,14,On Time
+12664,129,Howra,Agartala,1,Delayed
+12665,143,Nagpur,Agartala,21,Delayed
+12666,84,Nagpur,Malda,23,On Time
+12667,106,Howra,Kolkata,12,On Time
+12668,141,Bardhaman,Malda,9,Delayed
+12669,90,Bardhaman,Agartala,21,On Time
+12670,95,Bardhaman,Malda,12,Delayed
+12671,81,Kolkata,Sehara,3,On Time
+12672,61,Bardhaman,Malda,18,Delayed
+12673,90,Kolkata,Sehara,12,On Time
+12674,72,Howra,Malda,18,On Time
+12675,103,Bardhaman,Agartala,20,On Time
+12676,93,Kolkata,Malda,16,Delayed
+12677,50,Sealdah,Kolkata,14,Delayed
+12678,101,Howra,Kolkata,7,Delayed
+12679,146,Kolkata,Agartala,15,Delayed
+12680,76,Bardhaman,Kolkata,12,Delayed
+12681,80,Nagpur,Sehara,19,Delayed
+12682,140,Howra,Kolkata,10,Delayed
+12683,97,Sealdah,Sehara,14,On Time
+12684,51,Sealdah,Sehara,11,Delayed
+12685,108,Bardhaman,Jaipur,16,On Time
+12686,137,Howra,Kolkata,8,On Time
+12687,113,Howra,Malda,21,Delayed
+12688,65,Kolkata,Agartala,1,On Time
+12689,130,Sealdah,Agartala,1,On Time
+12690,103,Bardhaman,Malda,14,On Time
+12691,141,Howra,Malda,14,Delayed
+12692,103,Nagpur,Jaipur,8,On Time
+12693,103,Howra,Malda,16,On Time
+12694,100,Kolkata,Agartala,6,Delayed
+12695,103,Nagpur,Sehara,14,On Time
+12696,76,Kolkata,Agartala,1,Delayed
+12697,66,Bardhaman,Kolkata,21,Delayed
+12698,134,Sealdah,Kolkata,16,Delayed
+12699,119,Kolkata,Malda,19,On Time
+12700,95,Kolkata,Jaipur,7,On Time
+12701,118,Howra,Agartala,15,On Time
+12702,143,Nagpur,Kolkata,2,On Time
+12703,81,Bardhaman,Jaipur,22,Delayed
+12704,112,Nagpur,Sehara,1,On Time
+12705,51,Nagpur,Jaipur,3,On Time
+12706,71,Sealdah,Jaipur,17,Delayed
+12707,101,Nagpur,Agartala,1,Delayed
+12708,93,Howra,Kolkata,5,On Time
+12709,90,Howra,Sehara,11,Delayed
+12710,64,Howra,Malda,21,Delayed
+12711,96,Nagpur,Malda,12,On Time
+12712,142,Kolkata,Malda,24,Delayed
+12713,132,Sealdah,Kolkata,23,On Time
+12714,83,Sealdah,Agartala,6,On Time
+12715,145,Bardhaman,Jaipur,17,On Time
+12716,71,Nagpur,Kolkata,16,On Time
+12717,69,Kolkata,Sehara,9,Delayed
+12718,86,Sealdah,Malda,10,Delayed
+12719,148,Nagpur,Sehara,20,Delayed
+12720,141,Howra,Jaipur,1,On Time
+12721,90,Kolkata,Malda,21,On Time
+12722,131,Kolkata,Jaipur,17,Delayed
+12723,56,Kolkata,Malda,14,On Time
+12724,100,Bardhaman,Malda,8,On Time
+12725,62,Bardhaman,Sehara,8,On Time
+12726,84,Sealdah,Jaipur,3,On Time
+12727,135,Sealdah,Sehara,22,Delayed
+12728,86,Bardhaman,Sehara,24,On Time
+12729,121,Nagpur,Malda,14,Delayed
+12730,80,Kolkata,Jaipur,2,Delayed
+12731,85,Kolkata,Jaipur,6,Delayed
+12732,52,Sealdah,Malda,9,On Time
+12733,57,Kolkata,Malda,7,On Time
+12734,104,Bardhaman,Sehara,12,Delayed
+12735,87,Kolkata,Malda,4,On Time
+12736,95,Bardhaman,Agartala,24,On Time
+12737,64,Nagpur,Kolkata,8,Delayed
+12738,94,Bardhaman,Agartala,4,Delayed
+12739,50,Howra,Jaipur,11,Delayed
+12740,69,Howra,Kolkata,6,Delayed
+12741,142,Bardhaman,Kolkata,9,On Time
+12742,63,Howra,Agartala,6,On Time
+12743,80,Kolkata,Kolkata,12,On Time
+12744,105,Nagpur,Malda,24,Delayed
+12745,53,Nagpur,Kolkata,4,On Time
+12746,101,Nagpur,Agartala,23,On Time
+12747,108,Howra,Malda,22,On Time
+12748,66,Sealdah,Sehara,18,On Time
+12749,148,Bardhaman,Jaipur,19,Delayed
+12750,76,Kolkata,Kolkata,24,Delayed
+12751,102,Sealdah,Sehara,5,On Time
+12752,99,Sealdah,Kolkata,18,On Time
+12753,90,Bardhaman,Kolkata,9,On Time
+12754,106,Howra,Sehara,13,On Time
+12755,146,Sealdah,Kolkata,24,Delayed
+12756,72,Bardhaman,Kolkata,4,Delayed
+12757,104,Nagpur,Agartala,16,Delayed
+12758,78,Kolkata,Malda,7,Delayed
+12759,54,Kolkata,Sehara,3,On Time
+12760,128,Nagpur,Jaipur,8,On Time
+12761,57,Nagpur,Agartala,6,Delayed
+12762,148,Sealdah,Jaipur,5,Delayed
+12763,97,Kolkata,Jaipur,5,Delayed
+12764,141,Sealdah,Jaipur,23,On Time
+12765,61,Nagpur,Malda,10,Delayed
+12766,77,Bardhaman,Jaipur,13,On Time
+12767,122,Sealdah,Malda,10,On Time
+12768,79,Nagpur,Sehara,1,On Time
+12769,51,Howra,Sehara,17,On Time
+12770,127,Nagpur,Agartala,15,On Time
+12771,71,Howra,Kolkata,5,On Time
+12772,63,Bardhaman,Agartala,3,Delayed
+12773,105,Howra,Sehara,18,Delayed
+12774,84,Sealdah,Agartala,8,On Time
+12775,63,Bardhaman,Agartala,18,Delayed
+12776,118,Nagpur,Sehara,4,Delayed
+12777,119,Sealdah,Jaipur,18,Delayed
+12778,101,Nagpur,Sehara,15,Delayed
+12779,127,Sealdah,Malda,11,On Time
+12780,76,Nagpur,Agartala,23,Delayed
+12781,140,Bardhaman,Kolkata,9,On Time
+12782,55,Bardhaman,Sehara,7,Delayed
+12783,65,Nagpur,Kolkata,21,On Time
+12784,51,Bardhaman,Jaipur,23,On Time
+12785,87,Sealdah,Kolkata,4,Delayed
+12786,139,Nagpur,Agartala,8,Delayed
+12787,95,Bardhaman,Agartala,6,Delayed
+12788,142,Kolkata,Sehara,13,Delayed
+12789,86,Nagpur,Malda,5,On Time
+12790,102,Sealdah,Sehara,21,Delayed
+12791,115,Bardhaman,Jaipur,24,On Time
+12792,144,Kolkata,Jaipur,4,On Time
+12793,80,Nagpur,Jaipur,20,Delayed
+12794,101,Howra,Kolkata,10,On Time
+12795,120,Nagpur,Agartala,20,On Time
+12796,144,Bardhaman,Malda,3,Delayed
+12797,96,Nagpur,Malda,23,On Time
+12798,136,Sealdah,Jaipur,11,Delayed
+12799,55,Howra,Sehara,13,Delayed
+12800,77,Nagpur,Malda,1,On Time
+12801,123,Nagpur,Jaipur,22,On Time
+12802,149,Sealdah,Jaipur,7,Delayed
+12803,136,Howra,Kolkata,18,Delayed
+12804,119,Howra,Sehara,13,Delayed
+12805,63,Howra,Malda,20,On Time
+12806,109,Sealdah,Sehara,12,On Time
+12807,124,Kolkata,Malda,12,On Time
+12808,70,Nagpur,Sehara,1,On Time
+12809,83,Bardhaman,Kolkata,23,On Time
+12810,68,Nagpur,Jaipur,14,Delayed
+12811,148,Bardhaman,Agartala,12,Delayed
+12812,108,Nagpur,Jaipur,3,On Time
+12813,81,Sealdah,Agartala,3,On Time
+12814,135,Kolkata,Kolkata,9,On Time
+12815,120,Nagpur,Agartala,12,On Time
+12816,119,Bardhaman,Jaipur,19,On Time
+12817,56,Howra,Agartala,24,Delayed
+12818,141,Nagpur,Kolkata,8,On Time
+12819,129,Nagpur,Kolkata,19,On Time
+12820,101,Howra,Jaipur,1,On Time
+12821,140,Bardhaman,Sehara,17,On Time
+12822,144,Nagpur,Jaipur,11,On Time
+12823,130,Kolkata,Sehara,21,On Time
+12824,149,Sealdah,Kolkata,3,On Time
+12825,95,Nagpur,Jaipur,13,Delayed
+12826,123,Howra,Malda,20,Delayed
+12827,138,Kolkata,Sehara,10,Delayed
+12828,144,Kolkata,Agartala,7,On Time
+12829,97,Howra,Malda,20,On Time
+12830,109,Sealdah,Kolkata,24,On Time
+12831,53,Bardhaman,Agartala,18,On Time
+12832,72,Sealdah,Agartala,9,Delayed
+12833,62,Kolkata,Agartala,15,Delayed
+12834,104,Howra,Sehara,24,Delayed
+12835,89,Howra,Malda,24,Delayed
+12836,93,Howra,Kolkata,10,On Time
+12837,70,Kolkata,Malda,16,On Time
+12838,80,Nagpur,Agartala,14,Delayed
+12839,109,Bardhaman,Jaipur,8,Delayed
+12840,80,Howra,Sehara,9,Delayed
+12841,62,Howra,Sehara,6,On Time
+12842,134,Kolkata,Kolkata,22,Delayed
+12843,73,Sealdah,Kolkata,22,Delayed
+12844,122,Nagpur,Agartala,12,Delayed
+12845,90,Nagpur,Sehara,24,On Time
+12846,112,Sealdah,Kolkata,23,On Time
+12847,120,Howra,Agartala,5,On Time
+12848,64,Nagpur,Kolkata,14,Delayed
+12849,64,Nagpur,Jaipur,15,Delayed
+12850,118,Sealdah,Malda,3,On Time
+12851,77,Kolkata,Agartala,4,On Time
+12852,59,Sealdah,Kolkata,8,Delayed
+12853,53,Howra,Jaipur,14,On Time
+12854,119,Sealdah,Kolkata,7,On Time
+12855,75,Nagpur,Malda,18,On Time
+12856,103,Sealdah,Agartala,7,Delayed
+12857,109,Kolkata,Sehara,20,Delayed
+12858,89,Kolkata,Sehara,1,Delayed
+12859,77,Nagpur,Sehara,8,Delayed
+12860,115,Kolkata,Jaipur,6,On Time
+12861,125,Kolkata,Malda,15,Delayed
+12862,118,Bardhaman,Malda,14,Delayed
+12863,102,Bardhaman,Malda,8,Delayed
+12864,116,Kolkata,Malda,21,On Time
+12865,113,Bardhaman,Jaipur,11,Delayed
+12866,131,Sealdah,Jaipur,9,Delayed
+12867,58,Bardhaman,Jaipur,15,Delayed
+12868,135,Kolkata,Kolkata,11,On Time
+12869,96,Sealdah,Sehara,24,Delayed
+12870,137,Sealdah,Jaipur,9,Delayed
+12871,118,Kolkata,Agartala,18,Delayed
+12872,96,Kolkata,Agartala,2,On Time
+12873,136,Nagpur,Kolkata,4,On Time
+12874,82,Kolkata,Sehara,14,Delayed
+12875,140,Howra,Agartala,2,On Time
+12876,141,Nagpur,Jaipur,7,Delayed
+12877,101,Nagpur,Agartala,16,Delayed
+12878,89,Sealdah,Sehara,5,Delayed
+12879,86,Bardhaman,Kolkata,12,Delayed
+12880,100,Howra,Jaipur,14,Delayed
+12881,74,Nagpur,Kolkata,24,On Time
+12882,134,Howra,Sehara,11,Delayed
+12883,149,Bardhaman,Agartala,12,On Time
+12884,148,Sealdah,Kolkata,19,Delayed
+12885,141,Bardhaman,Jaipur,11,Delayed
+12886,87,Howra,Jaipur,10,On Time
+12887,140,Howra,Malda,17,Delayed
+12888,145,Kolkata,Kolkata,11,On Time
+12889,52,Kolkata,Agartala,12,On Time
+12890,142,Bardhaman,Agartala,11,On Time
+12891,51,Kolkata,Jaipur,22,Delayed
+12892,81,Kolkata,Jaipur,23,On Time
+12893,91,Kolkata,Agartala,16,Delayed
+12894,116,Nagpur,Agartala,13,Delayed
+12895,91,Sealdah,Jaipur,4,Delayed
+12896,60,Sealdah,Malda,15,Delayed
+12897,87,Kolkata,Jaipur,9,On Time
+12898,122,Bardhaman,Agartala,2,On Time
+12899,139,Nagpur,Malda,18,On Time
+12900,145,Kolkata,Jaipur,12,Delayed
+12901,67,Sealdah,Malda,18,Delayed
+12902,84,Bardhaman,Agartala,10,Delayed
+12903,103,Sealdah,Agartala,12,On Time
+12904,149,Sealdah,Malda,20,Delayed
+12905,111,Bardhaman,Kolkata,23,On Time
+12906,94,Bardhaman,Jaipur,19,Delayed
+12907,54,Sealdah,Kolkata,2,On Time
+12908,139,Bardhaman,Malda,7,On Time
+12909,87,Sealdah,Agartala,7,Delayed
+12910,58,Kolkata,Sehara,9,Delayed
+12911,129,Howra,Agartala,22,On Time
+12912,58,Sealdah,Jaipur,7,Delayed
+12913,105,Nagpur,Agartala,15,On Time
+12914,149,Bardhaman,Sehara,10,Delayed
+12915,71,Bardhaman,Jaipur,23,On Time
+12916,140,Kolkata,Malda,15,On Time
+12917,59,Howra,Jaipur,7,Delayed
+12918,77,Nagpur,Sehara,16,Delayed
+12919,86,Sealdah,Jaipur,3,On Time
+12920,115,Sealdah,Agartala,19,Delayed
+12921,67,Kolkata,Kolkata,20,Delayed
+12922,124,Bardhaman,Jaipur,1,On Time
+12923,93,Sealdah,Agartala,10,Delayed
+12924,123,Bardhaman,Sehara,19,On Time
+12925,105,Kolkata,Kolkata,15,Delayed
+12926,88,Nagpur,Sehara,18,Delayed
+12927,96,Kolkata,Malda,14,Delayed
+12928,63,Nagpur,Sehara,1,Delayed
+12929,67,Sealdah,Sehara,6,On Time
+12930,57,Sealdah,Sehara,12,Delayed
+12931,107,Sealdah,Agartala,1,On Time
+12932,92,Bardhaman,Malda,19,Delayed
+12933,146,Nagpur,Agartala,9,Delayed
+12934,140,Kolkata,Sehara,19,On Time
+12935,144,Howra,Kolkata,15,Delayed
+12936,61,Kolkata,Sehara,10,On Time
+12937,115,Howra,Kolkata,2,On Time
+12938,58,Nagpur,Kolkata,3,Delayed
+12939,77,Bardhaman,Agartala,8,On Time
+12940,78,Bardhaman,Agartala,12,On Time
+12941,136,Kolkata,Kolkata,4,Delayed
+12942,123,Sealdah,Jaipur,20,Delayed
+12943,98,Nagpur,Jaipur,4,On Time
+12944,146,Nagpur,Kolkata,22,On Time
+12945,141,Nagpur,Sehara,2,Delayed
+12946,133,Howra,Sehara,5,Delayed
+12947,112,Howra,Jaipur,6,Delayed
+12948,149,Nagpur,Agartala,13,On Time
+12949,107,Bardhaman,Jaipur,15,On Time
+12950,141,Howra,Kolkata,4,On Time
+12951,117,Sealdah,Sehara,4,On Time
+12952,59,Nagpur,Kolkata,10,On Time
+12953,99,Bardhaman,Malda,12,Delayed
+12954,122,Kolkata,Jaipur,20,On Time
+12955,92,Kolkata,Malda,3,Delayed
+12956,58,Kolkata,Kolkata,9,On Time
+12957,70,Nagpur,Sehara,1,Delayed
+12958,83,Howra,Malda,16,On Time
+12959,145,Bardhaman,Agartala,11,Delayed
+12960,122,Nagpur,Jaipur,4,Delayed
+12961,148,Howra,Jaipur,17,Delayed
+12962,111,Bardhaman,Jaipur,10,On Time
+12963,97,Kolkata,Kolkata,7,Delayed
+12964,98,Sealdah,Kolkata,11,Delayed
+12965,67,Bardhaman,Malda,23,On Time
+12966,99,Bardhaman,Jaipur,2,On Time
+12967,134,Kolkata,Kolkata,11,Delayed
+12968,111,Howra,Agartala,3,On Time
+12969,96,Sealdah,Malda,12,On Time
+12970,79,Kolkata,Jaipur,18,On Time
+12971,92,Bardhaman,Jaipur,13,Delayed
+12972,128,Kolkata,Jaipur,3,On Time
+12973,102,Howra,Kolkata,1,On Time
+12974,96,Howra,Malda,10,Delayed
+12975,55,Howra,Jaipur,12,On Time
+12976,55,Kolkata,Jaipur,8,On Time
+12977,146,Bardhaman,Malda,2,On Time
+12978,51,Nagpur,Malda,4,On Time
+12979,120,Nagpur,Sehara,22,On Time
+12980,146,Bardhaman,Kolkata,23,On Time
+12981,123,Nagpur,Kolkata,12,Delayed
+12982,56,Kolkata,Kolkata,7,Delayed
+12983,137,Kolkata,Kolkata,21,Delayed
+12984,132,Bardhaman,Kolkata,8,On Time
+12985,105,Kolkata,Agartala,20,Delayed
+12986,55,Bardhaman,Agartala,20,Delayed
+12987,69,Howra,Sehara,10,Delayed
+12988,77,Howra,Agartala,24,Delayed
+12989,86,Howra,Agartala,6,Delayed
+12990,131,Nagpur,Malda,21,On Time
+12991,128,Sealdah,Malda,7,Delayed
+12992,80,Nagpur,Sehara,8,Delayed
+12993,142,Bardhaman,Kolkata,13,Delayed
+12994,83,Nagpur,Kolkata,17,Delayed
+12995,58,Sealdah,Malda,3,Delayed
+12996,116,Sealdah,Kolkata,5,On Time
+12997,139,Kolkata,Agartala,21,Delayed
+12998,87,Kolkata,Agartala,24,On Time
+12999,109,Nagpur,Agartala,4,On Time
+13000,52,Nagpur,Agartala,1,Delayed
+13001,58,Kolkata,Agartala,19,Delayed
+13002,144,Bardhaman,Sehara,8,Delayed
+13003,139,Howra,Agartala,3,On Time
+13004,95,Sealdah,Kolkata,14,Delayed
+13005,113,Kolkata,Sehara,14,On Time
+13006,126,Kolkata,Jaipur,6,Delayed
+13007,94,Howra,Sehara,20,Delayed
+13008,126,Sealdah,Malda,12,On Time
+13009,95,Howra,Malda,1,On Time
+13010,51,Sealdah,Agartala,4,Delayed
+13011,94,Kolkata,Sehara,13,Delayed
+13012,109,Bardhaman,Agartala,16,Delayed
+13013,64,Kolkata,Malda,3,Delayed
+13014,56,Bardhaman,Jaipur,10,Delayed
+13015,78,Bardhaman,Sehara,12,On Time
+13016,63,Sealdah,Jaipur,6,Delayed
+13017,138,Howra,Kolkata,17,On Time
+13018,136,Bardhaman,Agartala,8,On Time
+13019,108,Kolkata,Agartala,4,On Time
+13020,149,Bardhaman,Malda,16,Delayed
+13021,98,Howra,Kolkata,10,Delayed
+13022,149,Nagpur,Sehara,12,Delayed
+13023,77,Nagpur,Kolkata,15,On Time
+13024,83,Bardhaman,Jaipur,16,Delayed
+13025,110,Bardhaman,Agartala,12,On Time
+13026,146,Bardhaman,Sehara,15,On Time
+13027,125,Howra,Jaipur,11,Delayed
+13028,134,Kolkata,Malda,2,On Time
+13029,86,Nagpur,Sehara,7,Delayed
+13030,117,Sealdah,Jaipur,5,Delayed
+13031,98,Howra,Malda,9,Delayed
+13032,130,Sealdah,Agartala,10,Delayed
+13033,125,Nagpur,Agartala,8,On Time
+13034,79,Howra,Kolkata,18,On Time
+13035,86,Bardhaman,Sehara,11,On Time
+13036,110,Nagpur,Sehara,16,Delayed
+13037,113,Bardhaman,Jaipur,18,Delayed
+13038,53,Kolkata,Agartala,7,On Time
+13039,51,Nagpur,Agartala,11,Delayed
+13040,82,Kolkata,Kolkata,14,On Time
+13041,134,Nagpur,Agartala,5,On Time
+13042,116,Howra,Malda,13,Delayed
+13043,53,Kolkata,Malda,11,Delayed
+13044,122,Howra,Agartala,16,On Time
+13045,123,Sealdah,Kolkata,12,Delayed
+13046,107,Howra,Jaipur,18,Delayed
+13047,81,Bardhaman,Kolkata,14,Delayed
+13048,85,Bardhaman,Sehara,17,Delayed
+13049,64,Kolkata,Kolkata,21,Delayed
+13050,115,Sealdah,Sehara,5,Delayed
+13051,75,Nagpur,Agartala,8,Delayed
+13052,55,Sealdah,Jaipur,2,On Time
+13053,136,Bardhaman,Sehara,23,On Time
+13054,70,Kolkata,Kolkata,17,On Time
+13055,149,Kolkata,Agartala,11,Delayed
+13056,130,Nagpur,Kolkata,7,On Time
+13057,102,Howra,Kolkata,24,Delayed
+13058,147,Sealdah,Agartala,5,On Time
+13059,75,Howra,Sehara,6,On Time
+13060,116,Nagpur,Sehara,11,On Time
+13061,92,Nagpur,Agartala,12,On Time
+13062,102,Howra,Malda,8,On Time
+13063,103,Howra,Sehara,12,On Time
+13064,70,Nagpur,Malda,23,Delayed
+13065,143,Kolkata,Sehara,6,Delayed
+13066,80,Sealdah,Sehara,1,On Time
+13067,115,Nagpur,Malda,9,Delayed
+13068,97,Bardhaman,Kolkata,9,Delayed
+13069,144,Bardhaman,Jaipur,7,On Time
+13070,123,Howra,Agartala,15,On Time
+13071,99,Nagpur,Agartala,3,Delayed
+13072,136,Bardhaman,Agartala,11,On Time
+13073,145,Kolkata,Jaipur,1,Delayed
+13074,131,Sealdah,Jaipur,21,On Time
+13075,94,Nagpur,Kolkata,5,Delayed
+13076,111,Kolkata,Agartala,10,On Time
+13077,126,Sealdah,Sehara,18,Delayed
+13078,97,Sealdah,Agartala,8,On Time
+13079,57,Howra,Jaipur,3,On Time
+13080,147,Howra,Kolkata,13,On Time
+13081,138,Kolkata,Agartala,7,On Time
+13082,108,Sealdah,Agartala,16,Delayed
+13083,79,Bardhaman,Agartala,10,Delayed
+13084,90,Nagpur,Kolkata,18,On Time
+13085,71,Sealdah,Kolkata,21,On Time
+13086,69,Sealdah,Jaipur,11,Delayed
+13087,139,Kolkata,Kolkata,8,Delayed
+13088,110,Bardhaman,Kolkata,19,Delayed
+13089,101,Bardhaman,Jaipur,16,Delayed
+13090,135,Sealdah,Agartala,6,Delayed
+13091,126,Howra,Malda,1,On Time
+13092,111,Sealdah,Jaipur,12,Delayed
+13093,112,Bardhaman,Agartala,17,Delayed
+13094,131,Kolkata,Agartala,24,On Time
+13095,97,Sealdah,Jaipur,24,Delayed
+13096,143,Sealdah,Malda,17,On Time
+13097,85,Howra,Agartala,18,On Time
+13098,106,Kolkata,Kolkata,8,On Time
+13099,90,Howra,Jaipur,8,On Time
+13100,99,Bardhaman,Sehara,4,Delayed
+13101,75,Nagpur,Agartala,6,Delayed
+13102,113,Sealdah,Kolkata,3,On Time
+13103,71,Sealdah,Jaipur,14,Delayed
+13104,144,Sealdah,Agartala,18,Delayed
+13105,118,Kolkata,Jaipur,14,On Time
+13106,69,Sealdah,Kolkata,23,On Time
+13107,144,Bardhaman,Malda,24,On Time
+13108,101,Bardhaman,Jaipur,19,On Time
+13109,65,Nagpur,Kolkata,24,On Time
+13110,130,Howra,Kolkata,22,Delayed
+13111,141,Howra,Kolkata,12,Delayed
+13112,97,Sealdah,Malda,18,On Time
+13113,117,Sealdah,Jaipur,18,Delayed
+13114,147,Bardhaman,Agartala,14,On Time
+13115,124,Nagpur,Jaipur,16,Delayed
+13116,63,Bardhaman,Agartala,14,Delayed
+13117,145,Howra,Jaipur,14,On Time
+13118,56,Sealdah,Malda,12,Delayed
+13119,127,Sealdah,Malda,8,On Time
+13120,65,Bardhaman,Agartala,19,Delayed
+13121,122,Kolkata,Agartala,2,Delayed
+13122,59,Howra,Kolkata,10,On Time
+13123,75,Howra,Agartala,16,Delayed
+13124,114,Bardhaman,Malda,19,Delayed
+13125,84,Kolkata,Agartala,5,Delayed
+13126,76,Kolkata,Agartala,4,Delayed
+13127,138,Bardhaman,Jaipur,9,On Time
+13128,102,Howra,Sehara,3,Delayed
+13129,98,Sealdah,Jaipur,6,Delayed
+13130,121,Nagpur,Jaipur,1,On Time
+13131,51,Kolkata,Jaipur,11,Delayed
+13132,68,Howra,Malda,3,Delayed
+13133,61,Bardhaman,Sehara,16,On Time
+13134,147,Kolkata,Agartala,20,On Time
+13135,65,Nagpur,Sehara,18,On Time
+13136,70,Nagpur,Agartala,6,On Time
+13137,54,Kolkata,Jaipur,17,Delayed
+13138,51,Sealdah,Jaipur,4,On Time
+13139,63,Bardhaman,Jaipur,7,On Time
+13140,126,Kolkata,Malda,15,Delayed
+13141,90,Kolkata,Agartala,16,Delayed
+13142,108,Howra,Jaipur,6,On Time
+13143,95,Sealdah,Malda,15,On Time
+13144,53,Sealdah,Agartala,9,On Time
+13145,145,Sealdah,Kolkata,5,Delayed
+13146,136,Bardhaman,Agartala,17,On Time
+13147,63,Sealdah,Malda,7,Delayed
+13148,95,Bardhaman,Agartala,8,Delayed
+13149,116,Kolkata,Kolkata,9,Delayed
+13150,93,Bardhaman,Sehara,13,On Time
+13151,138,Bardhaman,Sehara,6,On Time
+13152,122,Nagpur,Agartala,11,On Time
+13153,50,Sealdah,Jaipur,1,Delayed
+13154,69,Bardhaman,Kolkata,15,Delayed
+13155,107,Sealdah,Agartala,17,On Time
+13156,103,Sealdah,Sehara,2,Delayed
+13157,110,Nagpur,Kolkata,3,On Time
+13158,128,Nagpur,Malda,16,Delayed
+13159,139,Nagpur,Sehara,6,Delayed
+13160,102,Bardhaman,Agartala,13,On Time
+13161,142,Sealdah,Jaipur,9,On Time
+13162,52,Bardhaman,Sehara,20,Delayed
+13163,148,Bardhaman,Malda,14,Delayed
+13164,69,Nagpur,Jaipur,15,Delayed
+13165,52,Sealdah,Kolkata,2,On Time
+13166,93,Howra,Jaipur,6,Delayed
+13167,82,Nagpur,Agartala,9,On Time
+13168,97,Howra,Kolkata,12,Delayed
+13169,90,Kolkata,Sehara,5,Delayed
+13170,107,Kolkata,Malda,3,On Time
+13171,57,Nagpur,Jaipur,24,On Time
+13172,112,Bardhaman,Jaipur,3,Delayed
+13173,133,Nagpur,Sehara,7,On Time
+13174,95,Howra,Kolkata,11,Delayed
+13175,90,Sealdah,Agartala,20,On Time
+13176,69,Howra,Kolkata,24,Delayed
+13177,79,Howra,Jaipur,12,Delayed
+13178,76,Nagpur,Jaipur,9,On Time
+13179,104,Bardhaman,Malda,20,On Time
+13180,78,Sealdah,Malda,12,On Time
+13181,105,Sealdah,Kolkata,15,Delayed
+13182,60,Bardhaman,Malda,3,On Time
+13183,68,Nagpur,Malda,3,On Time
+13184,126,Bardhaman,Agartala,15,Delayed
+13185,90,Sealdah,Jaipur,3,On Time
+13186,125,Sealdah,Kolkata,5,Delayed
+13187,70,Sealdah,Jaipur,5,On Time
+13188,128,Sealdah,Malda,19,On Time
+13189,54,Howra,Sehara,3,Delayed
+13190,65,Nagpur,Agartala,18,Delayed
+13191,62,Kolkata,Kolkata,6,On Time
+13192,63,Kolkata,Malda,22,Delayed
+13193,116,Kolkata,Agartala,13,Delayed
+13194,83,Bardhaman,Jaipur,8,Delayed
+13195,85,Nagpur,Agartala,14,On Time
+13196,91,Nagpur,Sehara,15,Delayed
+13197,79,Kolkata,Agartala,11,Delayed
+13198,99,Nagpur,Agartala,24,Delayed
+13199,53,Bardhaman,Agartala,3,On Time
+13200,149,Nagpur,Malda,15,On Time
+13201,51,Nagpur,Agartala,20,On Time
+13202,53,Kolkata,Kolkata,12,On Time
+13203,83,Nagpur,Sehara,2,On Time
+13204,62,Sealdah,Kolkata,8,On Time
+13205,105,Sealdah,Sehara,9,On Time
+13206,95,Howra,Agartala,10,On Time
+13207,129,Kolkata,Sehara,8,Delayed
+13208,85,Kolkata,Kolkata,22,On Time
+13209,62,Nagpur,Jaipur,21,Delayed
+13210,60,Kolkata,Agartala,11,On Time
+13211,77,Kolkata,Malda,5,Delayed
+13212,141,Nagpur,Jaipur,9,Delayed
+13213,65,Sealdah,Jaipur,24,Delayed
+13214,56,Bardhaman,Malda,11,Delayed
+13215,52,Kolkata,Jaipur,5,Delayed
+13216,125,Nagpur,Kolkata,20,Delayed
+13217,106,Sealdah,Malda,16,On Time
+13218,107,Nagpur,Sehara,22,On Time
+13219,127,Howra,Kolkata,2,On Time
+13220,110,Sealdah,Sehara,6,On Time
+13221,76,Howra,Jaipur,9,Delayed
+13222,61,Sealdah,Malda,16,Delayed
+13223,58,Kolkata,Jaipur,1,On Time
+13224,75,Kolkata,Agartala,20,Delayed
+13225,106,Howra,Malda,7,Delayed
+13226,142,Howra,Kolkata,5,On Time
+13227,87,Howra,Sehara,7,On Time
+13228,62,Bardhaman,Kolkata,4,On Time
+13229,115,Howra,Kolkata,22,On Time
+13230,111,Nagpur,Sehara,10,Delayed
+13231,142,Nagpur,Sehara,6,On Time
+13232,64,Howra,Malda,8,On Time
+13233,69,Nagpur,Jaipur,7,On Time
+13234,137,Howra,Malda,6,Delayed
+13235,87,Howra,Agartala,21,Delayed
+13236,114,Kolkata,Agartala,13,Delayed
+13237,56,Howra,Kolkata,6,Delayed
+13238,93,Kolkata,Malda,8,On Time
+13239,100,Bardhaman,Sehara,2,On Time
+13240,68,Nagpur,Kolkata,6,On Time
+13241,143,Bardhaman,Kolkata,11,Delayed
+13242,88,Howra,Sehara,8,On Time
+13243,102,Nagpur,Agartala,4,On Time
+13244,74,Howra,Agartala,23,Delayed
+13245,109,Bardhaman,Sehara,8,On Time
+13246,69,Nagpur,Malda,23,Delayed
+13247,59,Howra,Jaipur,18,On Time
+13248,92,Howra,Sehara,10,On Time
+13249,83,Bardhaman,Jaipur,4,On Time
+13250,62,Nagpur,Agartala,13,On Time
+13251,76,Bardhaman,Jaipur,21,Delayed
+13252,138,Sealdah,Jaipur,9,Delayed
+13253,119,Sealdah,Jaipur,15,Delayed
+13254,114,Nagpur,Kolkata,11,On Time
+13255,87,Bardhaman,Jaipur,1,On Time
+13256,117,Kolkata,Agartala,20,Delayed
+13257,112,Kolkata,Kolkata,17,On Time
+13258,60,Nagpur,Agartala,3,On Time
+13259,119,Bardhaman,Sehara,12,Delayed
+13260,57,Howra,Kolkata,1,Delayed
+13261,106,Nagpur,Jaipur,12,On Time
+13262,94,Nagpur,Agartala,15,Delayed
+13263,50,Bardhaman,Agartala,11,On Time
+13264,61,Nagpur,Kolkata,8,On Time
+13265,136,Sealdah,Agartala,11,Delayed
+13266,74,Kolkata,Jaipur,16,Delayed
+13267,73,Nagpur,Sehara,4,Delayed
+13268,105,Kolkata,Jaipur,7,On Time
+13269,54,Bardhaman,Sehara,14,On Time
+13270,64,Sealdah,Jaipur,3,On Time
+13271,68,Kolkata,Malda,20,On Time
+13272,55,Nagpur,Malda,8,On Time
+13273,110,Bardhaman,Malda,6,Delayed
+13274,77,Bardhaman,Jaipur,21,On Time
+13275,118,Kolkata,Malda,10,Delayed
+13276,60,Bardhaman,Kolkata,15,On Time
+13277,146,Kolkata,Agartala,15,Delayed
+13278,141,Howra,Malda,8,Delayed
+13279,86,Bardhaman,Sehara,5,Delayed
+13280,134,Nagpur,Malda,9,On Time
+13281,71,Nagpur,Agartala,23,Delayed
+13282,65,Nagpur,Malda,2,On Time
+13283,130,Bardhaman,Jaipur,23,On Time
+13284,84,Kolkata,Agartala,7,On Time
+13285,80,Bardhaman,Agartala,20,On Time
+13286,113,Sealdah,Sehara,5,On Time
+13287,118,Bardhaman,Kolkata,15,On Time
+13288,146,Sealdah,Jaipur,19,Delayed
+13289,72,Bardhaman,Kolkata,11,Delayed
+13290,103,Nagpur,Jaipur,2,On Time
+13291,60,Kolkata,Jaipur,12,On Time
+13292,141,Howra,Sehara,9,Delayed
+13293,142,Kolkata,Jaipur,4,On Time
+13294,79,Nagpur,Kolkata,8,Delayed
+13295,50,Nagpur,Malda,21,Delayed
+13296,133,Howra,Jaipur,15,On Time
+13297,98,Kolkata,Kolkata,13,On Time
+13298,53,Sealdah,Malda,13,Delayed
+13299,143,Sealdah,Jaipur,16,On Time
+13300,81,Kolkata,Jaipur,24,Delayed
+13301,126,Kolkata,Malda,3,On Time
+13302,97,Bardhaman,Malda,6,Delayed
+13303,81,Nagpur,Kolkata,13,On Time
+13304,66,Howra,Jaipur,7,On Time
+13305,108,Nagpur,Sehara,1,On Time
+13306,99,Sealdah,Kolkata,11,Delayed
+13307,94,Sealdah,Kolkata,16,On Time
+13308,123,Nagpur,Sehara,12,Delayed
+13309,117,Howra,Kolkata,15,Delayed
+13310,56,Bardhaman,Malda,13,On Time
+13311,69,Nagpur,Jaipur,18,Delayed
+13312,132,Kolkata,Jaipur,21,On Time
+13313,108,Bardhaman,Kolkata,8,Delayed
+13314,113,Kolkata,Agartala,2,On Time
+13315,90,Nagpur,Sehara,13,Delayed
+13316,147,Howra,Agartala,3,On Time
+13317,147,Kolkata,Jaipur,4,Delayed
+13318,130,Kolkata,Sehara,13,Delayed
+13319,79,Sealdah,Jaipur,22,On Time
+13320,125,Sealdah,Jaipur,7,Delayed
+13321,92,Kolkata,Kolkata,9,Delayed
+13322,79,Howra,Jaipur,4,Delayed
+13323,86,Howra,Sehara,15,Delayed
+13324,74,Bardhaman,Agartala,9,On Time
+13325,112,Bardhaman,Jaipur,1,Delayed
+13326,105,Sealdah,Agartala,7,Delayed
+13327,136,Nagpur,Jaipur,11,On Time
+13328,127,Nagpur,Jaipur,19,Delayed
+13329,80,Nagpur,Malda,12,Delayed
+13330,129,Bardhaman,Malda,18,On Time
+13331,103,Howra,Jaipur,1,Delayed
